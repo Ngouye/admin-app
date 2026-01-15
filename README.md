@@ -15,7 +15,8 @@ Prérequis pour démarrer le projet  :
 * Go
 
 ```bash 
-git clone https://github.com/ngorseck/admin-app.git
+
+git clone https://github.com/Ngouye/admin-app.git
 # Executer la commande docker-compose 
 docker compose up -d
 # Démarrer le projet pour les tests 
@@ -113,5 +114,5 @@ Postman
 ```
 Email
 ```
-:email:  ngorsecka@gmail.com
+:email:  gningngouye2001@gmail.com
 
